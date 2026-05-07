@@ -62,13 +62,6 @@
 - `.env.production.example` - Created (production template)
 - `.gitignore` - Updated with client2
 
-## Next: You Choose
-
-**Option A: I guide you step-by-step**
-- I'll help with GitHub setup
-- I'll help with Render configuration
-- We'll troubleshoot any issues
-
 **Option B: You follow the guide independently**
 - Use `RENDER_DEPLOYMENT_GUIDE.md` as reference
 - Ask if you get stuck
