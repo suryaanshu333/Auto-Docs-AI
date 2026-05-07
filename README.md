@@ -188,4 +188,4 @@ If you want, I can also:
 - run the repo locally (install deps and start services)
 - add a `.env` checklist in the root or CI notes
 
-Enjoy — share this README with your friends so they can follow the exact commands above.
+Enjoy — share this README with your friends so they can follow the exact commands above...
