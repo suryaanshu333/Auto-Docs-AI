@@ -61,9 +61,3 @@
 - `RENDER_DEPLOYMENT_GUIDE.md` - Created (detailed guide)
 - `.env.production.example` - Created (production template)
 - `.gitignore` - Updated with client2
-
-**Option B: You follow the guide independently**
-- Use `RENDER_DEPLOYMENT_GUIDE.md` as reference
-- Ask if you get stuck
-
-What would you prefer?
